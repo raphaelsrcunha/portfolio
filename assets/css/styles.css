@@ -321,6 +321,10 @@ a.dotted-link:hover {
 
 /* Projects Section */
 
+.img-none {
+  display: none;
+}
+
 .title-techs-proj {
   font-size: 20px;
   color: #999999;
