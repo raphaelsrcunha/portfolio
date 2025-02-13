@@ -216,6 +216,7 @@ a.dotted-link:hover {
 }
 .section .heading {
   margin-top: 0;
+  text-align: center;
   margin-bottom: 30px;
   color: #545e69;
   font-size: 24px;
@@ -251,7 +252,7 @@ a.dotted-link:hover {
   opacity: 0.8;
 }
 .latest .divider {
-  margin-bottom: 60px;
+  margin-bottom: 30px;
 }
 .latest .featured {
   margin-bottom: 60px;
